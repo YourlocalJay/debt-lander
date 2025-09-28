@@ -1,0 +1,25 @@
+{
+  "name": "debt-lander",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:icons": "node scripts/build-icons.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YourlocalJay/debt-lander.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YourlocalJay/debt-lander/issues"
+  },
+  "homepage": "https://github.com/YourlocalJay/debt-lander#readme",
+  "description": "",
+  "dependencies": {
+    "sharp": "^0.34.4",
+    "to-ico": "^1.1.5"
+  }
+}
